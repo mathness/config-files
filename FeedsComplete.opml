@@ -1,0 +1,91 @@
+<opml version="1.1">
+  <head>
+    <title>FeedDemon Subscriptions</title>
+    <dateModified>Fri, 28 Apr 2006 10:49:43 GMT</dateModified>
+  </head>
+  <body>
+    <outline text="[My Feeds]">
+      <outline text="Arts &amp; Entertainment">
+        <outline text="Reuters: Entertainment" title="Reuters: Entertainment" type="rss" xmlUrl="http://www.microsite.reuters.com/rss/Entertainment" htmlUrl="http://www.reuters.com" description="Reuters: Entertainment"/>
+        <outline text="The Movie Blog" title="The Movie Blog" type="rss" xmlUrl="http://www.themovieblog.com/index.rdf" htmlUrl="http://www.themovieblog.com/" description="The Movie Blog"/>
+      </outline>
+      <outline text="Gadgets">
+        <outline text="Akihabaranews" title="Akihabaranews" type="rss" xmlUrl="http://www.akihabaranews.com/en/rss.html" htmlUrl="http://www.akihabaranews.com/en"/>
+        <outline text="Coolest Gadgets" title="Coolest Gadgets" type="rss" xmlUrl="http://www.coolest-gadgets.com/feed" htmlUrl="http://www.coolest-gadgets.com"/>
+        <outline text="Engadget" title="Engadget" type="rss" xmlUrl="http://www.engadget.com/rss.xml" htmlUrl="http://www.engadget.com/" description="Engadget"/>
+        <outline text="Engadget Japanese" title="Engadget Japanese" type="rss" xmlUrl="http://japanese.engadget.com/rss.xml" htmlUrl="http://japanese.engadget.com" description="Engadget Japanese"/>
+        <outline text="geekBlue.net" title="geekBlue.net" type="rss" xmlUrl="http://www.geekblue.net/index.rdf" htmlUrl="http://www.geekblue.net/"/>
+        <outline text="Gizmodo" title="Gizmodo" type="rss" xmlUrl="http://www.gizmodo.net/index.xml" htmlUrl="http://www.gizmodo.com/" description="Gizmodo"/>
+        <outline text="Medgadget" title="Medgadget" type="rss" xmlUrl="http://www.medgadget.com/atom.xml" htmlUrl="http://www.medgadget.com/"/>
+        <outline text="Strange New Products" title="Strange New Products" type="rss" xmlUrl="http://feeds.feedburner.com/StrangeNewProducts" htmlUrl="http://www.strangenewproducts.com"/>
+        <outline text="The Gadgeteer" title="The Gadgeteer" type="rss" xmlUrl="http://www.the-gadgeteer.com/feed/rss.xml" htmlUrl="http://www.the-gadgeteer.com/"/>
+        <outline text="UberGizmo, the Gadgets News Blog" title="UberGizmo, the Gadgets News Blog" type="rss" xmlUrl="http://www.ubergizmo.com/atom.xml" htmlUrl="http://www.ubergizmo.com/" description="UberGizmo, the Gadgets News Blog"/>
+        <outline text="GeekStuff4U" title="GeekStuff4U" type="rss" xmlUrl="http://www.geekstuff4u.com/rss_newproducts.php" htmlUrl="http://www.geekstuff4u.com/"/>
+      </outline>
+      <outline text="International">
+        <outline text="Boing Boing Blog" title="Boing Boing Blog" type="rss" xmlUrl="http://boingboing.net/rss.xml" htmlUrl="http://boingboing.net/" description="Boing Boing Blog"/>
+        <outline text="CNN.com" title="CNN.com" type="rss" xmlUrl="http://www.cnn.com/rss/cnn_topstories.rss" htmlUrl="http://www.cnn.com/rssclick/?section=cnn_topstories" description="CNN.com"/>
+        <outline text="El Economista - Internacional" title="El Economista - Internacional" type="rss" xmlUrl="http://www.economista.com.mx/rss/internacional/" htmlUrl="http://www.economista.com.mx/seccion/internacional/" description="El Economista - Internacional"/>
+        <outline text="InfoWorld: Top News" title="InfoWorld: Top News" type="rss" xmlUrl="http://www.infoworld.com/rss/news.xml" htmlUrl="http://www.infoworld.com/news/index.html" description="InfoWorld: Top News"/>
+        <outline text="La Jornada &gt; Mundo" title="La Jornada &gt; Mundo" type="rss" xmlUrl="http://www.jornada.unam.mx/rss/mundo.xml" htmlUrl="http://www.jornada.unam.mx/mundo.php" description="La Jornada &gt; Mundo"/>
+        <outline text="MetaFilter" title="MetaFilter" type="rss" xmlUrl="http://xml.metafilter.com/atom.xml" htmlUrl="http://www.metafilter.com/" description="MetaFilter"/>
+        <outline text="Moreover - Top stories" title="Moreover - Top stories" type="rss" xmlUrl="http://www.moreover.com/cgi-local/page?o=rss002&amp;c=Top%20stories&amp;wiz=2277468" htmlUrl="http://www.moreover.com/rss" description="Moreover - Top stories"/>
+        <outline text="Reuters: Top News" title="Reuters: Top News" type="rss" xmlUrl="http://www.microsite.reuters.com/rss/topNews" htmlUrl="http://www.reuters.com" description="Reuters: Top News"/>
+        <outline text="WSJ.com: What's News Asia" title="WSJ.com: What's News Asia" type="rss" xmlUrl="http://online.wsj.com/xml/rss/0,,3_7013,00.xml" htmlUrl="http://online.wsj.com" description="WSJ.com: What's News Asia"/>
+        <outline text="WSJ.com: What's News Europe" title="WSJ.com: What's News Europe" type="rss" xmlUrl="http://online.wsj.com/xml/rss/0,,3_7012,00.xml" htmlUrl="http://online.wsj.com" description="WSJ.com: What's News Europe"/>
+        <outline text="WSJ.com: What's News US" title="WSJ.com: What's News US" type="rss" xmlUrl="http://online.wsj.com/xml/rss/0,,3_7011,00.xml" htmlUrl="http://online.wsj.com" description="WSJ.com: What's News US"/>
+      </outline>
+      <outline text="Tech &amp; Science">
+        <outline text="CNET News.com - Front Door" title="CNET News.com - Front Door" type="rss" xmlUrl="http://news.com.com/2547-1_3-0-20.xml" htmlUrl="http://www.news.com/" description="Tech News First"/>
+        <outline text="del.icio.us/cnataren" title="del.icio.us/cnataren" type="rss" xmlUrl="http://del.icio.us/rss/cnataren" htmlUrl="http://del.icio.us/cnataren" description="del.icio.us/cnataren"/>
+        <outline text="diggdot.us" title="diggdot.us" type="rss" xmlUrl="http://diggdot.us/rss" htmlUrl="http://diggdot.us/"/>
+        <outline text="drupal ciencias - Ciencias -- UNAM" title="drupal ciencias - Ciencias -- UNAM" type="rss" xmlUrl="http://slash.fciencias.unam.mx/?q=node/feed" htmlUrl="http://slash.fciencias.unam.mx" description="drupal ciencias - Ciencias -- UNAM"/>
+        <outline text="ITC: All Programs" title="ITC: All Programs" type="rss" xmlUrl="http://feeds.feedburner.com/ITConversations-EverythingMP3" htmlUrl="http://www.itconversations.com/index.html" description="ITC: All Programs"/>
+        <outline text="Lambda the Ultimate - Programming Languages Weblog" title="Lambda the Ultimate - Programming Languages Weblog" type="rss" xmlUrl="http://lambda-the-ultimate.org/node/feed" htmlUrl="http://lambda-the-ultimate.org" description="Lambda the Ultimate - Programming Languages Weblog"/>
+        <outline text="linux kernel monkey log" title="linux kernel monkey log" type="rss" xmlUrl="http://www.kroah.com/log/index.rss" htmlUrl="http://www.kroah.com/log" description="linux kernel monkey log"/>
+        <outline text="Linux Today" title="Linux Today" type="rss" xmlUrl="http://www.linuxtoday.com/backend/biglt.rss" htmlUrl="http://linuxtoday.com" description="Linux Today"/>
+        <outline text="Lockergnome's Linux Fanatics" title="Lockergnome's Linux Fanatics" type="rss" xmlUrl="http://www.lockergnome.com/rss/linux.php" htmlUrl="http://channels.lockergnome.com/linux/" description="Lockergnome's Linux Fanatics"/>
+        <outline text="Lockergnome's Mobile Lifestyle" title="Lockergnome's Mobile Lifestyle" type="rss" xmlUrl="http://www.lockergnome.com/rss/mobile.php" htmlUrl="http://channels.lockergnome.com/mobile/" description="Lockergnome's Mobile Lifestyle"/>
+        <outline text="Lockergnome's Search Engineer" title="Lockergnome's Search Engineer" type="rss" xmlUrl="http://www.lockergnome.com/rss/search.php" htmlUrl="http://channels.lockergnome.com/search/" description="Lockergnome's Search Engineer"/>
+        <outline text="Lockergnome's Tech News Watch" title="Lockergnome's Tech News Watch" type="rss" xmlUrl="http://www.lockergnome.com/rss/news.php" htmlUrl="http://channels.lockergnome.com/news/" description="Lockergnome's Tech News Watch"/>
+        <outline text="Lockergnome's Technobabble" title="Lockergnome's Technobabble" type="rss" xmlUrl="http://www.lockergnome.com/rss/technobabble.php" htmlUrl="http://channels.lockergnome.com/technobabble/" description="Lockergnome's Technobabble"/>
+        <outline text="Lockergnome's Web Developers" title="Lockergnome's Web Developers" type="rss" xmlUrl="http://www.lockergnome.com/rss/web.php" htmlUrl="http://channels.lockergnome.com/web/" description="Lockergnome's Web Developers"/>
+        <outline text="Lockergnome's Windows Fanatics" title="Lockergnome's Windows Fanatics" type="rss" xmlUrl="http://www.lockergnome.com/rss/windows.php" htmlUrl="http://channels.lockergnome.com/windows/" description="Lockergnome's Windows Fanatics"/>
+        <outline text="Miguel de Icaza" title="Miguel de Icaza" type="rss" xmlUrl="http://tirania.org/blog/miguel.rss2" htmlUrl="http://tirania.org/blog/index.html" description="Miguel de Icaza"/>
+        <outline text="MSDN Just Published" title="MSDN Just Published" type="rss" xmlUrl="http://msdn.microsoft.com/rss.xml" htmlUrl="http://msdn.microsoft.com/" description="MSDN Just Published"/>
+        <outline text="PCWorld.com - Most Popular Downloads of the Week" title="PCWorld.com - Most Popular Downloads of the Week" type="rss" xmlUrl="http://rss.pcworld.com/rss/downloads.rss?period=week" htmlUrl="http://www.pcworld.com" description="PCWorld.com - Most Popular Downloads of the Week"/>
+        <outline text="Planet Hula" title="Planet Hula" type="rss" xmlUrl="http://planet.hula-project.org/rss20.xml" htmlUrl="http://planet.hula-project.org/" description="Planet Hula"/>
+        <outline text="Presentation Zen" title="Presentation Zen" type="rss" xmlUrl="http://presentationzen.blogs.com/presentationzen/index.rdf" htmlUrl="http://presentationzen.blogs.com/presentationzen/" description="Presentation Zen"/>
+        <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="http://slashdot.org/" description="Slashdot"/>
+        <outline text="Wired News" title="Wired News" type="rss" xmlUrl="http://www.wired.com/news_drop/netcenter/netcenter.rdf" htmlUrl="http://www.wired.com/" description="Wired News"/>
+        <outline text="World Wide Web Consortium" title="World Wide Web Consortium" type="rss" xmlUrl="http://www.w3.org/2000/08/w3c-synd/home.rss" htmlUrl="http://www.w3.org/" description="World Wide Web Consortium"/>
+        <outline text="ZDNet News - Front Door" title="ZDNet News - Front Door" type="rss" xmlUrl="http://news.zdnet.com/2509-1_22-0-20.xml" htmlUrl="http://news.zdnet.com/2001-1_22.html" description="ZDNet News - Front Door"/>
+      </outline>
+      <outline text="Medicine &amp; Health">
+        <outline text="MedicineNet Daily News" title="MedicineNet Daily News" type="rss" xmlUrl="http://www.medicinenet.com/rss/dailyhealth.xml" htmlUrl="http://www.medicinenet.com/script/main/hp.asp" description="MedicineNet Daily News"/>
+        <outline text="MedicineNet Senior Health General" title="MedicineNet Senior Health General" type="rss" xmlUrl="http://www.medicinenet.com/rss/general/Senior_Health.xml" htmlUrl="http://www.medicinenet.com/Senior_Health/focus.htm" description="MedicineNet Senior Health General"/>
+        <outline text="Medscape Headlines" title="Medscape Headlines" type="rss" xmlUrl="http://www.medscape.com/cx/rssfeeds/general.xml" htmlUrl="http://www.medscape.com/" description="Medscape Headlines"/>
+        <outline text="Moreover - Consumer: health news" title="Moreover - Consumer: health news" type="rss" xmlUrl="http://www.moreover.com/cgi-local/page?o=rss002&amp;c=Consumer%3A%20health%20news&amp;wiz=2277468" htmlUrl="http://www.moreover.com" description="Moreover - Consumer: health news"/>
+        <outline text="Reuters: Health" title="Reuters: Health" type="rss" xmlUrl="http://www.microsite.reuters.com/rss/healthNews" htmlUrl="http://www.reuters.com" description="Reuters: Health"/>
+        <outline text="WebMD Health Headlines" title="WebMD Health Headlines" type="rss" xmlUrl="http://rssfeeds.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC" htmlUrl="http://my.webmd.com?src=RSS_PUBLIC" description="WebMD Health Headlines"/>
+      </outline>
+      <outline text="Mexico">
+        <outline text="El Economista - Distrito Federal" title="El Economista - Distrito Federal" type="rss" xmlUrl="http://www.economista.com.mx/rss/df/" htmlUrl="http://www.economista.com.mx/seccion/df/"/>
+        <outline text="El Economista - Finanzas" title="El Economista - Finanzas" type="rss" xmlUrl="http://www.economista.com.mx/rss/finanzas/" htmlUrl="http://www.economista.com.mx/seccion/finanzas/"/>
+        <outline text="El Economista - Mercados" title="El Economista - Mercados" type="rss" xmlUrl="http://www.economista.com.mx/rss/mercados/" htmlUrl="http://www.economista.com.mx/termometro/"/>
+        <outline text="El Economista - Negocios" title="El Economista - Negocios" type="rss" xmlUrl="http://www.economista.com.mx/rss/negocios/" htmlUrl="http://www.economista.com.mx/seccion/negocios/"/>
+        <outline text="El Economista - Política" title="El Economista - Política" type="rss" xmlUrl="http://www.economista.com.mx/rss/politica/" htmlUrl="http://www.economista.com.mx/seccion/politica/"/>
+        <outline text="El Economista - Tecnología" title="El Economista - Tecnología" type="rss" xmlUrl="http://www.economista.com.mx/rss/tecnologia/" htmlUrl="http://www.economista.com.mx/seccion/tecnologia/"/>
+        <outline text="La Jornada &gt; Breves de hoy" title="La Jornada &gt; Breves de hoy" type="rss" xmlUrl="http://www.jornada.unam.mx/rss/breves.php" htmlUrl="http://www.jornada.unam.mx/breves/" description="La Jornada &gt; Breves de hoy"/>
+        <outline text="La Jornada &gt; Capital" title="La Jornada &gt; Capital" type="rss" xmlUrl="http://www.jornada.unam.mx/rss/capital.xml" htmlUrl="http://www.jornada.unam.mx/capital.php" description="La Jornada &gt; Capital"/>
+        <outline text="La Jornada &gt; Ciencias" title="La Jornada &gt; Ciencias" type="rss" xmlUrl="http://www.jornada.unam.mx/rss/ciencias.xml" htmlUrl="http://www.jornada.unam.mx/ciencias.php" description="La Jornada &gt; Ciencias"/>
+        <outline text="La Jornada &gt; Cultura" title="La Jornada &gt; Cultura" type="rss" xmlUrl="http://www.jornada.unam.mx/rss/cultura.xml" htmlUrl="http://www.jornada.unam.mx/cultura.php" description="La Jornada &gt; Cultura"/>
+        <outline text="La Jornada &gt; Economía" title="La Jornada &gt; Economía" type="rss" xmlUrl="http://www.jornada.unam.mx/rss/economia.xml" htmlUrl="http://www.jornada.unam.mx/economia.php" description="La Jornada &gt; Economía"/>
+        <outline text="La Jornada &gt; Espectáculos" title="La Jornada &gt; Espectáculos" type="rss" xmlUrl="http://www.jornada.unam.mx/rss/espectaculos.xml" htmlUrl="http://www.jornada.unam.mx/espectaculos.php" description="La Jornada &gt; Espectáculos"/>
+        <outline text="La Jornada &gt; Estados" title="La Jornada &gt; Estados" type="rss" xmlUrl="http://www.jornada.unam.mx/rss/estados.xml" htmlUrl="http://www.jornada.unam.mx/estados.php" description="La Jornada &gt; Estados"/>
+        <outline text="La Jornada &gt; Política" title="La Jornada &gt; Política" type="rss" xmlUrl="http://www.jornada.unam.mx/rss/politica.xml" htmlUrl="http://www.jornada.unam.mx/politica.php" description="La Jornada &gt; Política"/>
+        <outline text="La Jornada &gt; Sociedad y Justicia" title="La Jornada &gt; Sociedad y Justicia" type="rss" xmlUrl="http://www.jornada.unam.mx/rss/soc-jus.xml" htmlUrl="http://www.jornada.unam.mx/soc-jus.php" description="La Jornada &gt; Sociedad y Justicia"/>
+      </outline>
+    </outline>
+  </body>
+</opml>
